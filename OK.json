@@ -8078,5 +8078,336 @@
       "answer": "It contrasts with **monophony** (a single melodic line) and **homophony** (a single melody supported by chordal accompaniment).",
       "frequency": 3
     }
+  ],
+  "What is a virus?": [
+    {
+      "answer": "A virus is a tiny infectious agent that can only replicate inside the cells of a host organism.",
+      "frequency": 1
+    },
+    {
+      "answer": "Viruses hijack living cells and force them to produce more viruses.",
+      "frequency": 1
+    }
+  ],
+
+  "What is a bacteriophage?": [
+    {
+      "answer": "A bacteriophage is a virus that infects bacteria, often looking like a tiny lunar lander.",
+      "frequency": 1
+    }
+  ],
+
+  "What is bacteria?": [
+    {
+      "answer": "Bacteria are single-celled organisms found almost everywhere, from soil to your stomach.",
+      "frequency": 1
+    }
+  ],
+
+  "What is E. coli?": [
+    {
+      "answer": "E. coli is a common bacterium that lives in intestines, with some strains harmless and others causing illness.",
+      "frequency": 1
+    }
+  ],
+
+  "What is fungi?": [
+    {
+      "answer": "Fungi are organisms like mushrooms, molds, and yeasts that absorb nutrients from organic matter.",
+      "frequency": 1
+    }
+  ],
+
+  "What is yeast?": [
+    {
+      "answer": "Yeast is a single-celled fungus used in baking and fermentation.",
+      "frequency": 1
+    }
+  ],
+
+  "What is protozoa?": [
+    {
+      "answer": "Protozoa are single-celled eukaryotes that often move with cilia, flagella or pseudopodia.",
+      "frequency": 1
+    }
+  ],
+
+  "What is amoeba?": [
+    {
+      "answer": "An amoeba is a shapeshifting protozoan that moves using temporary extensions called pseudopodia.",
+      "frequency": 1
+    }
+  ],
+
+  "What is tardigrade?": [
+    {
+      "answer": "A tardigrade, or water bear, is a microscopic animal known for surviving extreme environments, even the vacuum of space.",
+      "frequency": 1
+    }
+  ],
+
+  "What is a fairy?": [
+    {
+      "answer": "In mythology, a fairy is a small magical humanoid creature often associated with forests, light and trickery.",
+      "frequency": 1
+    }
+  ],
+
+  "What is a sprite creature?": [
+    {
+      "answer": "A sprite is a tiny magical being of air or light, often depicted as glowing and fast-moving.",
+      "frequency": 1
+    }
+  ],
+
+  "What is an ant?": [
+    {
+      "answer": "An ant is a eusocial insect known for colonies, queens and extremely coordinated teamwork.",
+      "frequency": 1
+    }
+  ],
+
+  "What is a bee?": [
+    {
+      "answer": "A bee is an insect important for pollination and known for living in structured hives.",
+      "frequency": 1
+    }
+  ],
+  "What is a spider?": [
+    { "answer": "A spider is an arachnid with eight legs, spinnerets that make silk, and usually venom to subdue prey.", "frequency": 1 }
+  ],
+  "What is a centipede?": [
+    { "answer": "A centipede is a many-legged predatory arthropod that moves quickly and prefers damp places.", "frequency": 1 }
+  ],
+  "What is a millipede?": [
+    { "answer": "A millipede is a slow-moving detritivore with two pairs of legs per body segment, feeding on decaying matter.", "frequency": 1 }
+  ],
+  "What is a crustacean?": [
+    { "answer": "Crustaceans are mainly aquatic arthropods like crabs, shrimp, and lobsters, often with hard exoskeletons and gills.", "frequency": 1 }
+  ],
+  "What is a shrimp?": [
+    { "answer": "A shrimp is a small swimming crustacean used widely as food and found in both freshwater and marine environments.", "frequency": 1 }
+  ],
+  "What is a crab?": [
+    { "answer": "A crab is a crustacean with a broad carapace and a pair of strong pincers, many species live along coasts.", "frequency": 1 }
+  ],
+  "What is a mollusk?": [
+    { "answer": "Mollusks are a diverse phylum including snails, clams and octopuses, many with shells and soft bodies.", "frequency": 1 }
+  ],
+  "What is an octopus?": [
+    { "answer": "An octopus is a cephalopod known for intelligence, eight arms, ink defense and remarkable camouflage.", "frequency": 1 }
+  ],
+  "What is a snail?": [
+    { "answer": "A snail is a gastropod mollusk, usually with a coiled shell and a muscular foot for locomotion.", "frequency": 1 }
+  ],
+  "What is a fish?": [
+    { "answer": "Fish are aquatic vertebrates that breathe through gills and are incredibly diverse, from tiny minnows to huge sharks.", "frequency": 1 }
+  ],
+  "What is a shark?": [
+    { "answer": "A shark is a cartilaginous fish, often an apex predator with keen senses and varied sizes from small to massive.", "frequency": 1 }
+  ],
+  "What is a coral?": [
+    { "answer": "Coral is a colonial marine animal (cnidarian) that builds calcium carbonate skeletons forming reefs and hosting ecosystems.", "frequency": 1 }
+  ],
+  "What is an amphibian?": [
+    { "answer": "Amphibians are cold-blooded vertebrates like frogs and salamanders that usually have aquatic larvae and terrestrial adults.", "frequency": 1 }
+  ],
+  "What is a frog?": [
+    { "answer": "A frog is a tailless amphibian with long hind legs for jumping and a life cycle that often begins in water as a tadpole.", "frequency": 1 }
+  ],
+  "What is a salamander?": [
+    { "answer": "A salamander is an amphibian with a lizard-like body, often retaining juvenile features or regenerating limbs.", "frequency": 1 }
+  ],
+  "What is a reptile?": [
+    { "answer": "Reptiles are scaly, mostly egg-laying vertebrates including snakes, lizards, turtles and crocodiles.", "frequency": 1 }
+  ],
+  "What is a snake?": [
+    { "answer": "A snake is a legless reptile with elongated body, some species venomous, others constrictors.", "frequency": 1 }
+  ],
+  "What is a turtle?": [
+    { "answer": "A turtle is a shelled reptile; sea turtles swim long distances while land tortoises are slow and herbivorous.", "frequency": 1 }
+  ],
+  "What is a bird?": [
+    { "answer": "Birds are feathered, warm-blooded vertebrates that usually fly, lay eggs, and have high metabolic rates.", "frequency": 1 }
+  ],
+  "What is an eagle?": [
+    { "answer": "An eagle is a large bird of prey with powerful talons and keen eyesight, often an apex aerial predator.", "frequency": 1 }
+  ],
+  "What is a penguin?": [
+    { "answer": "A penguin is a flightless seabird adapted to swimming and cold climates; they waddle on land and 'fly' underwater.", "frequency": 1 }
+  ],
+  "What is a mammal?": [
+    { "answer": "Mammals are warm-blooded vertebrates with hair and mammary glands to nurse their young.", "frequency": 1 }
+  ],
+  "What is a rodent?": [
+    { "answer": "Rodents are a diverse group of small mammals with continuously growing incisors, like mice and rats.", "frequency": 1 }
+  ],
+  "What is a bat?": [
+    { "answer": "A bat is a flying mammal that uses echolocation; some species are fruit-eaters, others insectivores or blood feeders.", "frequency": 1 }
+  ],
+  "What is a whale?": [
+    { "answer": "Whales are large marine mammals; baleen whales filter feed while toothed whales hunt prey.", "frequency": 1 }
+  ],
+  "What is an elephant?": [
+    { "answer": "An elephant is the largest land mammal with tusks, a trunk used for manipulation and strong social bonds.", "frequency": 1 }
+  ],
+  "What is a dinosaur?": [
+    { "answer": "Dinosaurs are a diverse group of ancient reptiles; birds are actually modern avian dinosaurs.", "frequency": 1 }
+  ],
+  "What is Tyrannosaurus rex?": [
+    { "answer": "T. rex was a massive predatory theropod dinosaur known for powerful jaws and tiny arms.", "frequency": 1 }
+  ],
+  "What is a dragon (mythical)?": [
+    { "answer": "A dragon is a legendary large reptilian creature in world mythologies, often winged, fire-breathing or wise.", "frequency": 1 }
+  ],
+  "What is a kraken?": [
+    { "answer": "In myth, the kraken is a gigantic sea monster said to drag ships under; likely inspired by large cephalopods.", "frequency": 1 }
+  },
+  "What is a leviathan?": [
+    { "answer": "Leviathan is a colossal sea creature from mythology, sometimes used metaphorically for any enormous beast.", "frequency": 1 }
+  ],
+  "What is an elder god?": [
+    { "answer": "An elder god is a cosmic entity in fiction and myth, representing incomprehensible power beyond biology.", "frequency": 1 }
+  ],
+  "What is E. coli?": [
+    { "answer": "E. coli is a common bacterium living in the intestines of humans and animals; most strains are harmless but some cause illness.", "frequency": 1 }
+  ],
+  "What is Salmonella?": [
+    { "answer": "Salmonella is a pathogenic bacterium that causes food poisoning, often linked to undercooked eggs or poultry.", "frequency": 1 }
+  ],
+  "What is Vibrio cholerae?": [
+    { "answer": "Vibrio cholerae is the bacterium that causes cholera, producing severe dehydration through rapid diarrhea.", "frequency": 1 }
+  ],
+  "What is Mycobacterium tuberculosis?": [
+    { "answer": "Mycobacterium tuberculosis is a slow-growing bacterium that causes tuberculosis, usually affecting the lungs.", "frequency": 1 }
+  ],
+  "What is Staphylococcus aureus?": [
+    { "answer": "Staphylococcus aureus is a common bacterium on skin and in the nose; some strains are antibiotic-resistant.", "frequency": 1 }
+  ],
+  "What is Streptococcus pyogenes?": [
+    { "answer": "Streptococcus pyogenes is a bacterium causing strep throat, scarlet fever and some serious skin infections.", "frequency": 1 }
+  ],
+  "What is a bacteriophage?": [
+    { "answer": "A bacteriophage is a virus that infects bacteria, often with a spider-like shape and an injection mechanism.", "frequency": 1 }
+  ],
+  "What is Influenza virus?": [
+    { "answer": "Influenza virus is an RNA virus that mutates quickly and causes seasonal flu outbreaks each year.", "frequency": 1 }
+  ],
+  "What is Rhinovirus?": [
+    { "answer": "Rhinovirus is the main cause of the common cold, thriving in the cool temperatures of the human nasal cavity.", "frequency": 1 }
+  ],
+  "What is Rotavirus?": [
+    { "answer": "Rotavirus is a virus causing severe diarrhea in infants and children, often prevented with vaccines.", "frequency": 1 }
+  ],
+  "What is Candida albicans?": [
+    { "answer": "Candida albicans is a yeast that normally lives in the body but can overgrow and cause fungal infections.", "frequency": 1 }
+  ],
+  "What is Aspergillus?": [
+    { "answer": "Aspergillus is a genus of fungi commonly found in the environment; some species cause lung infections.", "frequency": 1 }
+  ],
+  "What is Penicillium?": [
+    { "answer": "Penicillium is a genus of fungi known for producing the antibiotic penicillin and for ripening cheeses.", "frequency": 1 }
+  ],
+  "What is a protozoan?": [
+    { "answer": "Protozoans are single-celled eukaryotic organisms that move and feed like tiny animals.", "frequency": 1 }
+  ],
+  "What is Amoeba?": [
+    { "answer": "Amoebas are shapeless protozoans that move using pseudopods and engulf food particles.", "frequency": 1 }
+  ],
+  "What is Paramecium?": [
+    { "answer": "Paramecium is a slipper-shaped protozoan covered in cilia, moving smoothly through water.", "frequency": 1 }
+  ],
+  "What is Euglena?": [
+    { "answer": "Euglena is a flagellated microorganism that can photosynthesize like a plant and feed like an animal.", "frequency": 1 }
+  ],
+  "What is Plasmodium?": [
+    { "answer": "Plasmodium is the protozoan genus that causes malaria, transmitted by Anopheles mosquitoes.", "frequency": 1 }
+  ],
+  "What is Giardia lamblia?": [
+    { "answer": "Giardia lamblia is a flagellated protozoan causing intestinal infection after drinking contaminated water.", "frequency": 1 }
+  ],
+  "What is Toxoplasma gondii?": [
+    { "answer": "Toxoplasma gondii is a parasitic protozoan often spread by cats, capable of forming cysts in tissues.", "frequency": 1 }
+  ],
+  "What is a tapeworm?": [
+    { "answer": "A tapeworm is a flat parasitic worm living in intestines; it absorbs nutrients through its skin.", "frequency": 1 }
+  ],
+  "What is a roundworm?": [
+    { "answer": "Roundworms are parasitic nematodes that infect various organs, commonly the digestive tract.", "frequency": 1 }
+  ],
+  "What is a leech?": [
+    { "answer": "A leech is an annelid worm known for feeding on blood using an anticoagulant called hirudin.", "frequency": 1 }
+  ],
+  "What is a tardigrade?": [
+    { "answer": "A tardigrade, or water bear, is a microscopic animal famous for surviving extreme heat, cold, and radiation.", "frequency": 1 }
+  ],
+  "What is a rotifer?": [
+    { "answer": "Rotifers are tiny aquatic animals with a ciliated 'wheel' at the head used for feeding and movement.", "frequency": 1 }
+  ],
+  "What is a nematode?": [
+    { "answer": "Nematodes are smooth, unsegmented roundworms found everywhere from soil to deep oceans.", "frequency": 1 }
+  ],
+  "What is a flatworm?": [
+    { "answer": "Flatworms are soft, flattened invertebrates; some are free-living while others are parasites.", "frequency": 1 }
+  ],
+  "What is a hydra?": [
+    { "answer": "Hydra is a small freshwater cnidarian capable of regenerating its entire body from fragments.", "frequency": 1 }
+  ],
+  "What is an anemone?": [
+    { "answer": "A sea anemone is a cnidarian related to jellyfish, using stinging tentacles to capture prey.", "frequency": 1 }
+  ],
+  "What is a comb jelly?": [
+    { "answer": "Comb jellies are gelatinous marine animals that use rows of beating cilia to glide through water.", "frequency": 1 }
+  ],
+  "What is a lamprey?": [
+    { "answer": "A lamprey is a jawless fish with a circular mouth full of teeth, some species parasitic on other fish.", "frequency": 1 }
+  ],
+  "What is a hagfish?": [
+    { "answer": "A hagfish is a jawless marine animal that produces slime as a defense, feeding on carcasses.", "frequency": 1 }
+  ],
+  "What is a trilobite?": [
+    { "answer": "Trilobites were extinct marine arthropods with segmented bodies and a hard exoskeleton.", "frequency": 1 }
+  ],
+  "What is a horseshoe crab?":[
+    { "answer": "A horseshoe crab is an ancient marine arthropod with blue copper-based blood used in medical testing.", "frequency": 1 }
+  ],
+  "What is a firefly?": [
+    { "answer": "A firefly is a beetle that produces bioluminescent light through a chemical reaction in its abdomen.", "frequency": 1 }
+  ],
+  "What is a mantis shrimp?": [
+    { "answer": "A mantis shrimp is a marine crustacean with extremely powerful claws and complex color vision.", "frequency": 1 }
+  ],
+  "What is a deep-sea anglerfish?": [
+    { "answer": "A deep-sea anglerfish is a fish with a glowing lure used to attract prey in dark ocean depths.", "frequency": 1 }
+  ],
+  "What is Deinococcus radiodurans?": [
+  {"answer": "A bacterium famous for extreme radiation resistance, often nicknamed the 'Conan of microbes'.", "frequency": 3}
+],
+  "What is a Tardigrade?": [
+    {"answer": "A microscopic eight-legged creature that survives vacuum, freezing, radiation, and your bad decisions.", "frequency": 2}
+  ],
+  "What is Hydra vulgaris?": [
+    {"answer": "A freshwater organism capable of near-infinite regeneration; cut it apart and it just reassembles itself like it's showing off.", "frequency": 3}
+  ],
+  "What is Myxococcus xanthus?": [
+    {"answer": "A predatory bacterium that hunts in coordinated swarms and forms multicellular structures when food is scarce.", "frequency": 1}
+  ],
+  "What is a Planarian?": [
+    {"answer": "A flatworm with insane regeneration; slice it and each piece becomes a whole new worm.", "frequency": 2}
+  ],
+  "What is Giardia lamblia?": [
+    {"answer": "A parasitic microorganism that infects the intestines and has a creepy, smile-shaped appearance under the microscope.", "frequency": 1}
+  ],
+  "What is Botryllus schlosseri?": [
+    {"answer": "A colonial marine organism that shares a circulatory system across multiple individuals.", "frequency": 2}
+  ],
+  "What is Anomalocaris?": [
+    {"answer": "A Cambrian predator, one of the earliest apex animals before bones were a thing.", "frequency": 1}
+  ],
+  "What is Archaeopteryx?": [
+    {"answer": "A transitional fossil between dinosaurs and birds, basically a feathered raptor trying to be a pigeon.", "frequency": 2}
+  ],
+  "What is Pristella maxillaris?": [
+    {"answer": "A small transparent fish whose organs are visible, like nature forgot to turn off debug mode.", "frequency": 1}
   ]
 }
