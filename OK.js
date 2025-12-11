@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   async function fet() {
     try {
       const url = 'https://gist.githubusercontent.com/Lbaodz/ef817b3b44c3c46cdea387bd75a5308b/raw/4d3d6ef29947ea67b758e540af01cd10e11ad373/OK.json';
-      const res = await fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent(url));
+      const res = await fetch(encodeURIComponent(url));
       if (!res.ok) throw new Error(`HTTP status ${res.status}`);
       return await res.json();
     } catch (err) {
