@@ -1,4 +1,6 @@
-  const chatContainer = document.getElementById('chat-container');
+window.addEventListener('DOMContentLoaded', () => {
+
+const chatContainer = document.getElementById('chat-container');
 const userInput = document.getElementById('user-input');
 const searchInput = document.getElementById('search-input');
 const intelligenceEl = document.getElementById('ai-intelligence');
@@ -128,3 +130,4 @@ userInput.addEventListener('keypress', e => { if (e.key === 'Enter') sendMessage
 
 // Start chatbot
 initKnowledgeBase();
+});
