@@ -12,7 +12,7 @@ let fetchedData = null;
 const STORAGE_KEY = 'aiKnowledgeBase_v2';
 async function fet() {
     try {
-        const res = await fetch('https://gist.githubusercontent.com/Lbaodz/ef817b3b44c3c46cdea387bd75a5308b/raw/4d3d6ef29947ea67b758e540af01cd10e11ad373/OK.json');
+        const res = await fetch('https://cdn.jsdelivr.net/gh/Lbaodz/OKAI@main/OK.json');
         if (!res.ok) throw new Error(`HTTP status ${res.status}`);
         const text = await res.json();
         try {
