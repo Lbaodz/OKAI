@@ -12,7 +12,7 @@ let fetchedData = null;
 const STORAGE_KEY = 'aiKnowledgeBase_v2';
 async function fet() {
     try {
-        let res = await fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent('https://cdn.jsdelivr.net/gh/Lbaodz/OKAI@main/OK.json'));
+        let res = await fetch('https://cdn.jsdelivr.net/gh/Lbaodz/OKAI@main/OK.json');
         if (!res.ok) throw new Error(`HTTP status ${res.status}`);
         const text = await res.json();
         try {
