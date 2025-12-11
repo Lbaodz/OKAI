@@ -91,7 +91,7 @@ function getBotResponse(userMessage) {
   return "I don't know the answer. Teach me using 'Learn: [Question]=[Answer]'";
 }
 
-function sendMessage() {
+window.sendMessage = function() {
   const msg = userInput.value.trim();
   if (!msg) return;
   addMessage('user', msg);
@@ -99,7 +99,7 @@ function sendMessage() {
   setTimeout(() => addMessage('bot', getBotResponse(msg)), 500);
 }
 
-function searchFact() {
+window.searchFact = function() {
   const searchText = searchInput.value.toLowerCase().trim();
   searchResultEl.innerHTML = '';
   searchProgressEl.style.display = 'block';
