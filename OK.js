@@ -127,6 +127,7 @@ window.searchFact = function() {
 }
 
 userInput.addEventListener('keypress', e => { if (e.key === 'Enter') sendMessage(); });
+searchInput.addEventListener('keypress', e => { if (e.key === 'Enter') searchFact(); });
 
 // Start chatbot
 initKnowledgeBase();
